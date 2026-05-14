@@ -15,6 +15,7 @@ __pycache__/
 
 # Large Files / Models
 backend/app/models/
+docs/
 
 # Build outputs
 dist/
