@@ -1,0 +1,32 @@
+# Environments
+venv/
+venv_311/
+.env
+.env.local
+
+# Dependencies
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Large Files / Models
+backend/app/models/
+
+# Build outputs
+dist/
+build/
+*.exe
+*.dmg
+*.AppImage
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
